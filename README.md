@@ -11,13 +11,13 @@ A robust general-purpose desktop application for creating and managing complex s
 * Generate an individual's schedule
 
 ### Build
-###### Pre-requisites:
+###### Prerequisites:
 * Java Development Kit (>= 9.0.4)
 
 `./build.sh`
 
 ### Run
-###### Pre-requisites:
+###### Prerequisites:
 * Java Runtime Environment (>= 9.0.4)
 
 `java -jar bin/ScheduleManager.jar`
