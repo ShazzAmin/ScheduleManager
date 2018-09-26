@@ -1,5 +1,6 @@
 Schedule Manager
 ================
+
 *by Shazz Amin*
 
 A robust general-purpose desktop application for creating and managing complex schedules.
